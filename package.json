@@ -1,0 +1,14 @@
+{
+	"name": "IvaNote",
+
+	"preferGlobal": true,
+
+	"version": "0.0.1",
+
+	"author": "TTivan",
+
+	"description": "nodejs based blog",
+	
+	 "main":"./init.js"
+
+}
